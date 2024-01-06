@@ -5,4 +5,4 @@
 - 🗂️ Experience with MongoDB, Redis, MySQL, PostgreSQL
 - 😶‍🌫️ Sometimes distracted and forgets how to code
 
-*[4d62.me](https://4d62.me)* • *[domry@duck.com](mailto:domry@duck.com)*
+*[4d62.me](https://4d62.me)* • *[hi@4d62.me](mailto:hi@4d62.me)*
